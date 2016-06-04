@@ -2,6 +2,7 @@ package com.company;
 import java.math.*;
 import java.util.*;
 
+//note: still haven't cleaned out all the bugs yet, but it's working so far!
 public class PBPEarth {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
@@ -85,3 +86,4 @@ public class PBPEarth {
         }
     }
 }
+//richardhe2016
